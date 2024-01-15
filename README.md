@@ -8,10 +8,7 @@ The score given is how many seconds are left when you have answered all the ques
 
 I used local storage to save this data and then displayed it on the highscore page along with the users input of their intials.
 
-
-![Alt text](image.png)
-
-![Alt text](image2.png)
-
-![Alt text](image3.png)
-![Alt text](image4.png)
+![Alt text](images/image.png)
+![Alt text](images/image2.png)
+![Alt text](images/image3.png)
+![Alt text](images/image4.png)
